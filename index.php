@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>Developing PHP Application for class version3 </h1>
+<h1>welcome to Devops world of projects 1</h1>
 
 <?php
-echo "Version: 1.1";
+echo "Version: 1";
 ?>
 
 </body>
